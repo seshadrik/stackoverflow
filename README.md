@@ -1,11 +1,11 @@
 
 ### Table of Contents
 
-1. [Installation](#installation)
-2. [Project Motivation](#motivation)
-3. [File Descriptions](#files)
-4. [Results](#results)
-5. [Licensing, Authors, and Acknowledgements](#licensing)
+- [Installation <a name="installation"></a>](#installation-)
+- [Project Motivation<a name="motivation"></a>](#project-motivation)
+- [File Descriptions <a name="files"></a>](#file-descriptions-)
+- [Results<a name="results"></a>](#results)
+- [Licensing, Authors, Acknowledgements<a name="licensing"></a>](#licensing-authors-acknowledgements)
 
 ## Installation <a name="installation"></a>
 
@@ -21,7 +21,7 @@ For this project, I was interestested in using Stack Overflow data from 2017 to 
 4. What was the state of bootcamps for assisting individuals with breaking into developer roles?
 5. How were bootcamps assisting with increasing diversity in tech careers?
 
-The full set of files related to this course are owned by Udacity, so they are not publicly available here.  However, you can see pieces of the analysis here.  This README also serves as a template for students to follow in creating their own project README files.
+The complete set of files related to this course are owned by Udacity, so they are not publicly available here.  However, you can see pieces of the analysis here.  This README also serves as a template for students to follow in creating their own project README files.
 
 
 ## File Descriptions <a name="files"></a>
